@@ -1,5 +1,6 @@
 🎮 Unity Main Menu
 This project is a simple Main Menu system built using Unity and C#, featuring two core options: Play to start the game and Quit to exit.
+
 ---
 ✨ Features
 🟢 Play Button: Loads the main game scene.
@@ -9,6 +10,7 @@ This project is a simple Main Menu system built using Unity and C#, featuring tw
 🖱️ Mouse-click interaction
 
 🧼 Minimal and clean UI layout
+
 ---
 🛠️ Built With
 Unity
@@ -16,6 +18,7 @@ Unity
 C# scripting
 
 Unity’s Canvas-based UI System
+
 ---
 ▶️ How to Run
 Open the project in Unity Hub
