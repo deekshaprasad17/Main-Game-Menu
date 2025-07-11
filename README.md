@@ -1,4 +1,5 @@
 🎮 Unity Main Menu
+---
 This project is a simple Main Menu system built using Unity and C#, featuring two core options: Play to start the game and Quit to exit.
 
 ---
